@@ -1,6 +1,8 @@
 **Steps to run the project**
-1) either run it with direct java as single file java 
-2) Maven project 
+We can run this project either as Single Java class or a Maven project
+
+1) As single Java class is standard ```java className```
+2) As a Maven project :
     
     ```mvn clean compile assembly:single ```
     
