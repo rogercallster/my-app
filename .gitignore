@@ -1,0 +1,6 @@
+.idea/
+.idea/*
+target
+target/*
+get-pip.py
+my-app.iml
